@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
+<title> Thanmay's Sports Page</title>
+</head>
+
+<body>
+     <h1> --Thanmay's Sports Page--</h1>
+       
+         <h3> BUCCANEERS: </h3>
+         <a href=https://www.buccaneers.com> Tampa Bay Buccaneers page </a>
+         <img src= "Bucs.jpg.webp" height="250px" />
+
+         <h3 >Manchester United </h3>
+         <a href=https://www.manutd.com> Manchester United page </a>
+         <img src= "MUFC.svg.png" height="250px" />"
+
+         <h3> Mavericks </h3>
+         <a href=https://www.mavs.com> Dallas Mavericks page </a>
+
+         <h3> Lakers </h3>
+         <a href=https://www.nba.com/lakers> Los Angeles Lakers page </a>
+
+         <h3> Red Sox </h3>
+         <a href=https://www.mlb.com/redsox> Boston Red Sox page </a>
+
+         <p> Image Sources:
+             https://www.britannica.com/topic/Tampa-Bay-Buccaneers
+             https://en.wikipedia.org/wiki/Manchester_United_F.C.
+         </p>
+
+<hr>
+<address></address>
+<!-- hhmts start -->Last modified: Mon Sep 26 12:52:53 MDT 2022 <!-- hhmts end -->
+</body> </html>
